@@ -1,0 +1,19 @@
+
+body {
+    background: #cecece;
+}
+
+#wrapp {
+    width: 100%;
+    max-width: 980px;
+    margin: 0 auto;
+}
+h1 {
+    color: #b4b472;
+}
+
+p {
+    color: #000;
+    font-weight: bold;
+    /*box-sizing: border-box;*/
+}
